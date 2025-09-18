@@ -12,7 +12,7 @@ public class TestSuitP0 {
 	@Test
 	public static void TC2() {
 	
-		System.out.println("TC 2 Executed");
+		System.out.println("TC 2 Executed now");
 		
 	}
 	@Test
