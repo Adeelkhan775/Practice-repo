@@ -24,7 +24,7 @@ public class TestSuitP0 {
 	@Test
 	public static void TC4() {
 	
-		System.out.println("TC 4 Executed");
+		System.out.println("TC 4 Excuted");
 		
 	}
 }
